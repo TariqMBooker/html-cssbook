@@ -1,0 +1,8 @@
+<html>
+  <head> 
+    <title>Bold and Italics</title>
+  </head>
+  <body>
+    <p>Some things can be in <b>BOLD</b> others in <i>italics</i>.
+  </body>
+</html>
